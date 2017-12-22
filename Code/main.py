@@ -26,14 +26,6 @@ from tflearn.metrics import Accuracy
 
 
 if __name__ == "__main__":
-    print("********************************************************************************")
-    print("UBitName:prasadde")
-    print("personNumber:50207353")
-    print("UBitName:veerappa")
-    print("personNumber:50247314")
-    print("UBitName:sarahmul")
-    print("personNumber:34508498")
-    print("********************************************************************************")
 	print("Gray Scale Model")
 	Gray.grayscale()
 	print("********************************************************************************")
